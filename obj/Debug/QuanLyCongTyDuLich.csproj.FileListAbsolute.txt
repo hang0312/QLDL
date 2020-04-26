@@ -1,0 +1,155 @@
+D:\VisualStudio\QuanLyCongTyDuLich\bin\Debug\QuanLyCongTyDuLich.exe
+D:\VisualStudio\QuanLyCongTyDuLich\bin\Debug\QuanLyCongTyDuLich.pdb
+D:\VisualStudio\QuanLyCongTyDuLich\obj\Debug\QuanLyCongTyDuLich.csprojAssemblyReference.cache
+D:\VisualStudio\QuanLyCongTyDuLich\obj\Debug\QuanLyCongTyDuLich.FrmMain.resources
+D:\VisualStudio\QuanLyCongTyDuLich\obj\Debug\QuanLyCongTyDuLich.Properties.Resources.resources
+D:\VisualStudio\QuanLyCongTyDuLich\obj\Debug\QuanLyCongTyDuLich.csproj.GenerateResource.cache
+D:\VisualStudio\QuanLyCongTyDuLich\obj\Debug\QuanLyCongTyDuLich.exe
+D:\VisualStudio\QuanLyCongTyDuLich\obj\Debug\QuanLyCongTyDuLich.pdb
+D:\VisualStudio\QuanLyCongTyDuLich\obj\Debug\QuanLyCongTyDuLich.FrmHDV.resources
+D:\VisualStudio\QuanLyCongTyDuLich\obj\Debug\QuanLyCongTyDuLich.FrmLichTour.resources
+C:\Users\HongHa\Desktop\QuanLyCongTyDuLich\bin\Debug\QuanLyCongTyDuLich.exe
+C:\Users\HongHa\Desktop\QuanLyCongTyDuLich\bin\Debug\QuanLyCongTyDuLich.pdb
+C:\Users\HongHa\Desktop\QuanLyCongTyDuLich\obj\Debug\QuanLyCongTyDuLich.csprojAssemblyReference.cache
+C:\Users\HongHa\Desktop\QuanLyCongTyDuLich\obj\Debug\QuanLyCongTyDuLich.FrmBCTourChuaKhoiHanh.resources
+C:\Users\HongHa\Desktop\QuanLyCongTyDuLich\obj\Debug\QuanLyCongTyDuLich.FrmDangKyTour.resources
+C:\Users\HongHa\Desktop\QuanLyCongTyDuLich\obj\Debug\QuanLyCongTyDuLich.FrmLichTour.resources
+C:\Users\HongHa\Desktop\QuanLyCongTyDuLich\obj\Debug\QuanLyCongTyDuLich.FrmMain.resources
+C:\Users\HongHa\Desktop\QuanLyCongTyDuLich\obj\Debug\QuanLyCongTyDuLich.Properties.Resources.resources
+C:\Users\HongHa\Desktop\QuanLyCongTyDuLich\obj\Debug\QuanLyCongTyDuLich.FrmHDV.resources
+C:\Users\HongHa\Desktop\QuanLyCongTyDuLich\obj\Debug\QuanLyCongTyDuLich.csproj.GenerateResource.cache
+C:\Users\HongHa\Desktop\QuanLyCongTyDuLich\obj\Debug\QuanLyCongTyDuLich.csproj.CoreCompileInputs.cache
+C:\Users\HongHa\Desktop\QuanLyCongTyDuLich\obj\Debug\QuanLyCongTyDuLich.exe
+C:\Users\HongHa\Desktop\QuanLyCongTyDuLich\obj\Debug\QuanLyCongTyDuLich.pdb
+C:\Users\HongHa\Desktop\QuanLyCongTyDuLich\obj\Debug\QuanLyCongTyDuLich.FrmBC3.resources
+C:\Users\HongHa\Desktop\QuanLyCongTyDuLich\obj\Debug\QuanLyCongTyDuLich.FrmBC2.resources
+C:\Users\HongHa\Desktop\QuanLyCongTyDuLich\obj\Debug\QuanLyCongTyDuLich.FrmDangNhap.resources
+C:\Users\HongHa\Desktop\QLCongTyDuLich\obj\Debug\QuanLyCongTyDuLich.csprojAssemblyReference.cache
+C:\Users\HongHa\Desktop\QLCongTyDuLich\obj\Debug\QuanLyCongTyDuLich.FrmBC2.resources
+C:\Users\HongHa\Desktop\QLCongTyDuLich\obj\Debug\QuanLyCongTyDuLich.FrmBC3.resources
+C:\Users\HongHa\Desktop\QLCongTyDuLich\obj\Debug\QuanLyCongTyDuLich.FrmBCTourChuaKhoiHanh.resources
+C:\Users\HongHa\Desktop\QLCongTyDuLich\obj\Debug\QuanLyCongTyDuLich.FrmDangKy.resources
+C:\Users\HongHa\Desktop\QLCongTyDuLich\obj\Debug\QuanLyCongTyDuLich.FrmDangNhap.resources
+C:\Users\HongHa\Desktop\QLCongTyDuLich\obj\Debug\QuanLyCongTyDuLich.FrmMain.resources
+C:\Users\HongHa\Desktop\QLCongTyDuLich\obj\Debug\QuanLyCongTyDuLich.Properties.Resources.resources
+C:\Users\HongHa\Desktop\QLCongTyDuLich\obj\Debug\QuanLyCongTyDuLich.csproj.GenerateResource.cache
+C:\Users\HongHa\Desktop\QLCongTyDuLich\obj\Debug\QuanLyCongTyDuLich.csproj.CoreCompileInputs.cache
+C:\Users\HongHa\Desktop\QLCongTyDuLich\obj\Debug\QuanLyCongTyDuLich.exe
+C:\Users\HongHa\Desktop\QLCongTyDuLich\obj\Debug\QuanLyCongTyDuLich.pdb
+C:\Users\HongHa\Desktop\QLCongTyDuLich\bin\Debug\QuanLyCongTyDuLich.exe
+C:\Users\HongHa\Desktop\QLCongTyDuLich\bin\Debug\QuanLyCongTyDuLich.pdb
+C:\Users\HongHa\Desktop\QLCongTyDuLich\obj\Debug\QuanLyCongTyDuLich.FrmPhamVi.resources
+C:\Users\HongHa\Desktop\QLCongTyDuLich\obj\Debug\QuanLyCongTyDuLich.FrmTruongDaoTao.resources
+D:\VisualStudio\QLCTDL\bin\Debug\QuanLyCongTyDuLich.exe
+D:\VisualStudio\QLCTDL\bin\Debug\QuanLyCongTyDuLich.pdb
+D:\VisualStudio\QLCTDL\obj\Debug\QuanLyCongTyDuLich.csprojAssemblyReference.cache
+D:\VisualStudio\QLCTDL\obj\Debug\QuanLyCongTyDuLich.FrmBC2.resources
+D:\VisualStudio\QLCTDL\obj\Debug\QuanLyCongTyDuLich.FrmBC3.resources
+D:\VisualStudio\QLCTDL\obj\Debug\QuanLyCongTyDuLich.FrmBCTourChuaKhoiHanh.resources
+D:\VisualStudio\QLCTDL\obj\Debug\QuanLyCongTyDuLich.FrmDangKy.resources
+D:\VisualStudio\QLCTDL\obj\Debug\QuanLyCongTyDuLich.FrmDangNhap.resources
+D:\VisualStudio\QLCTDL\obj\Debug\QuanLyCongTyDuLich.FrmMain.resources
+D:\VisualStudio\QLCTDL\obj\Debug\QuanLyCongTyDuLich.FrmPhamVi.resources
+D:\VisualStudio\QLCTDL\obj\Debug\QuanLyCongTyDuLich.FrmTruongDaoTao.resources
+D:\VisualStudio\QLCTDL\obj\Debug\QuanLyCongTyDuLich.Properties.Resources.resources
+D:\VisualStudio\QLCTDL\obj\Debug\QuanLyCongTyDuLich.csproj.GenerateResource.cache
+D:\VisualStudio\QLCTDL\obj\Debug\QuanLyCongTyDuLich.exe
+D:\VisualStudio\QLCTDL\obj\Debug\QuanLyCongTyDuLich.pdb
+D:\VisualStudio\BTL\bin\Debug\QuanLyCongTyDuLich.exe
+D:\VisualStudio\BTL\bin\Debug\QuanLyCongTyDuLich.pdb
+D:\VisualStudio\BTL\obj\Debug\QuanLyCongTyDuLich.csprojAssemblyReference.cache
+D:\VisualStudio\BTL\obj\Debug\QuanLyCongTyDuLich.FrmBC2.resources
+D:\VisualStudio\BTL\obj\Debug\QuanLyCongTyDuLich.FrmBC3.resources
+D:\VisualStudio\BTL\obj\Debug\QuanLyCongTyDuLich.FrmBCTourChuaKhoiHanh.resources
+D:\VisualStudio\BTL\obj\Debug\QuanLyCongTyDuLich.FrmDangKy.resources
+D:\VisualStudio\BTL\obj\Debug\QuanLyCongTyDuLich.FrmDangNhap.resources
+D:\VisualStudio\BTL\obj\Debug\QuanLyCongTyDuLich.FrmMain.resources
+D:\VisualStudio\BTL\obj\Debug\QuanLyCongTyDuLich.FrmPhamVi.resources
+D:\VisualStudio\BTL\obj\Debug\QuanLyCongTyDuLich.FrmTruongDaoTao.resources
+D:\VisualStudio\BTL\obj\Debug\QuanLyCongTyDuLich.Properties.Resources.resources
+D:\VisualStudio\BTL\obj\Debug\QuanLyCongTyDuLich.csproj.GenerateResource.cache
+D:\VisualStudio\BTL\obj\Debug\QuanLyCongTyDuLich.exe
+D:\VisualStudio\BTL\obj\Debug\QuanLyCongTyDuLich.pdb
+D:\VisualStudio\BTL\obj\Debug\QuanLyCongTyDuLich.FrmHDV.resources
+D:\VisualStudio\BTL\obj\Debug\QuanLyCongTyDuLich.FrmLichTour.resources
+D:\VisualStudio\BTL\obj\Debug\QuanLyCongTyDuLich.FrmKhachHang.resources
+D:\VisualStudio\BTL\obj\Debug\QuanLyCongTyDuLich.FrmTrinhDo.resources
+G:\BTL\BTL\bin\Debug\QuanLyCongTyDuLich.exe
+G:\BTL\BTL\bin\Debug\QuanLyCongTyDuLich.pdb
+G:\BTL\BTL\obj\Debug\QuanLyCongTyDuLich.csprojAssemblyReference.cache
+G:\BTL\BTL\obj\Debug\QuanLyCongTyDuLich.FrmBC2.resources
+G:\BTL\BTL\obj\Debug\QuanLyCongTyDuLich.FrmBC3.resources
+G:\BTL\BTL\obj\Debug\QuanLyCongTyDuLich.FrmBCTourChuaKhoiHanh.resources
+G:\BTL\BTL\obj\Debug\QuanLyCongTyDuLich.FrmDangKy.resources
+G:\BTL\BTL\obj\Debug\QuanLyCongTyDuLich.FrmDangNhap.resources
+G:\BTL\BTL\obj\Debug\QuanLyCongTyDuLich.FrmDMTour.resources
+G:\BTL\BTL\obj\Debug\QuanLyCongTyDuLich.FrmHDV.resources
+G:\BTL\BTL\obj\Debug\QuanLyCongTyDuLich.FrmKhachHang.resources
+G:\BTL\BTL\obj\Debug\QuanLyCongTyDuLich.FrmLichTour.resources
+G:\BTL\BTL\obj\Debug\QuanLyCongTyDuLich.FrmMain.resources
+G:\BTL\BTL\obj\Debug\QuanLyCongTyDuLich.FrmPhamVi.resources
+G:\BTL\BTL\obj\Debug\QuanLyCongTyDuLich.FrmTrinhDo.resources
+G:\BTL\BTL\obj\Debug\QuanLyCongTyDuLich.FrmTruongDaoTao.resources
+G:\BTL\BTL\obj\Debug\QuanLyCongTyDuLich.Properties.Resources.resources
+G:\BTL\BTL\obj\Debug\QuanLyCongTyDuLich.csproj.GenerateResource.cache
+G:\BTL\BTL\obj\Debug\QuanLyCongTyDuLich.csproj.CoreCompileInputs.cache
+G:\BTL\BTL\obj\Debug\QuanLyCongTyDuLich.exe
+G:\BTL\BTL\obj\Debug\QuanLyCongTyDuLich.pdb
+G:\BTL\BTL\obj\Debug\QuanLyCongTyDuLich.FrmCongTy.resources
+G:\BTL\BTL\obj\Debug\QuanLyCongTyDuLich.FrmMua.resources
+G:\BTL\BTL\obj\Debug\QuanLyCongTyDuLich.FrmNgoaiNgu.resources
+G:\New folder (2)\BT\bin\Debug\QuanLyCongTyDuLich.exe
+G:\New folder (2)\BT\bin\Debug\QuanLyCongTyDuLich.pdb
+G:\New folder (2)\BT\obj\Debug\QuanLyCongTyDuLich.csprojAssemblyReference.cache
+G:\New folder (2)\BT\obj\Debug\QuanLyCongTyDuLich.FrmBC2.resources
+G:\New folder (2)\BT\obj\Debug\QuanLyCongTyDuLich.FrmBC3.resources
+G:\New folder (2)\BT\obj\Debug\QuanLyCongTyDuLich.FrmBCTourChuaKhoiHanh.resources
+G:\New folder (2)\BT\obj\Debug\QuanLyCongTyDuLich.FrmCongTy.resources
+G:\New folder (2)\BT\obj\Debug\QuanLyCongTyDuLich.FrmDangKy.resources
+G:\New folder (2)\BT\obj\Debug\QuanLyCongTyDuLich.FrmDangNhap.resources
+G:\New folder (2)\BT\obj\Debug\QuanLyCongTyDuLich.FrmDMTour.resources
+G:\New folder (2)\BT\obj\Debug\QuanLyCongTyDuLich.FrmHDV.resources
+G:\New folder (2)\BT\obj\Debug\QuanLyCongTyDuLich.FrmKhachHang.resources
+G:\New folder (2)\BT\obj\Debug\QuanLyCongTyDuLich.FrmLichTour.resources
+G:\New folder (2)\BT\obj\Debug\QuanLyCongTyDuLich.FrmMain.resources
+G:\New folder (2)\BT\obj\Debug\QuanLyCongTyDuLich.FrmMua.resources
+G:\New folder (2)\BT\obj\Debug\QuanLyCongTyDuLich.FrmNgoaiNgu.resources
+G:\New folder (2)\BT\obj\Debug\QuanLyCongTyDuLich.FrmPhamVi.resources
+G:\New folder (2)\BT\obj\Debug\QuanLyCongTyDuLich.FrmQuocTich.resources
+G:\New folder (2)\BT\obj\Debug\QuanLyCongTyDuLich.FrmTrinhDo.resources
+G:\New folder (2)\BT\obj\Debug\QuanLyCongTyDuLich.FrmTruongDaoTao.resources
+G:\New folder (2)\BT\obj\Debug\QuanLyCongTyDuLich.FrmXepLoai.resources
+G:\New folder (2)\BT\obj\Debug\QuanLyCongTyDuLich.Properties.Resources.resources
+G:\New folder (2)\BT\obj\Debug\QuanLyCongTyDuLich.csproj.GenerateResource.cache
+G:\New folder (2)\BT\obj\Debug\QuanLyCongTyDuLich.csproj.CoreCompileInputs.cache
+G:\New folder (2)\BT\obj\Debug\QuanLyCongTyDuLich.exe
+G:\New folder (2)\BT\obj\Debug\QuanLyCongTyDuLich.pdb
+E:\HiHi\HiHi\bin\Debug\QuanLyCongTyDuLich.exe
+E:\HiHi\HiHi\bin\Debug\QuanLyCongTyDuLich.pdb
+E:\HiHi\HiHi\obj\Debug\QuanLyCongTyDuLich.csprojAssemblyReference.cache
+E:\HiHi\HiHi\obj\Debug\QuanLyCongTyDuLich.FrmBC2.resources
+E:\HiHi\HiHi\obj\Debug\QuanLyCongTyDuLich.FrmBC3.resources
+E:\HiHi\HiHi\obj\Debug\QuanLyCongTyDuLich.FrmBCTourChuaKhoiHanh.resources
+E:\HiHi\HiHi\obj\Debug\QuanLyCongTyDuLich.FrmCongTy.resources
+E:\HiHi\HiHi\obj\Debug\QuanLyCongTyDuLich.FrmDangKy.resources
+E:\HiHi\HiHi\obj\Debug\QuanLyCongTyDuLich.FrmDangKyTour.resources
+E:\HiHi\HiHi\obj\Debug\QuanLyCongTyDuLich.FrmDangNhap.resources
+E:\HiHi\HiHi\obj\Debug\QuanLyCongTyDuLich.FrmDMTour.resources
+E:\HiHi\HiHi\obj\Debug\QuanLyCongTyDuLich.FrmHDV.resources
+E:\HiHi\HiHi\obj\Debug\QuanLyCongTyDuLich.FrmKhachHang.resources
+E:\HiHi\HiHi\obj\Debug\QuanLyCongTyDuLich.FrmLichTour.resources
+E:\HiHi\HiHi\obj\Debug\QuanLyCongTyDuLich.FrmMain.resources
+E:\HiHi\HiHi\obj\Debug\QuanLyCongTyDuLich.FrmMua.resources
+E:\HiHi\HiHi\obj\Debug\QuanLyCongTyDuLich.FrmNgoaiNgu.resources
+E:\HiHi\HiHi\obj\Debug\QuanLyCongTyDuLich.FrmPhamVi.resources
+E:\HiHi\HiHi\obj\Debug\QuanLyCongTyDuLich.FrmQuocTich.resources
+E:\HiHi\HiHi\obj\Debug\QuanLyCongTyDuLich.FrmTrinhDo.resources
+E:\HiHi\HiHi\obj\Debug\QuanLyCongTyDuLich.FrmTruongDaoTao.resources
+E:\HiHi\HiHi\obj\Debug\QuanLyCongTyDuLich.FrmXepLoai.resources
+E:\HiHi\HiHi\obj\Debug\QuanLyCongTyDuLich.Properties.Resources.resources
+E:\HiHi\HiHi\obj\Debug\QuanLyCongTyDuLich.csproj.GenerateResource.cache
+E:\HiHi\HiHi\obj\Debug\QuanLyCongTyDuLich.exe
+E:\HiHi\HiHi\obj\Debug\QuanLyCongTyDuLich.pdb
+E:\HiHi\HiHi\obj\Debug\QuanLyCongTyDuLich.FrmTinh.resources
+E:\HiHi\HiHi\obj\Debug\QuanLyCongTyDuLich.FrmHDV_NgoaiNgu.resources
+E:\HiHi\HiHi\obj\Debug\QuanLyCongTyDuLich.FrmXacNhanDangKy.resources
